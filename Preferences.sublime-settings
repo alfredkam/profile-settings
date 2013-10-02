@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+	"font_size": 10.0,
+	"ignored_packages":
+	[
+		"All Autocomplete"
+	],
+	"show_full_path": true,
+	"soda_folder_icons": true,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"vintage_start_in_command_mode": true
+}
+

@@ -1,0 +1,26 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"DocBlockr",
+		"Dust.js",
+		"Git",
+		"HTML Mustache",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"Jedi - Python autocompletion",
+		"JsFormat",
+		"Package Control",
+		"Pretty JSON",
+		"Python Coverage",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"Theme - Soda",
+		"TidyHTML5",
+		"Todo Manager",
+		"VintageEx"
+	]
+}
+
