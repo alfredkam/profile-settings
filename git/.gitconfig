@@ -38,5 +38,5 @@
 	wc = whatchanged
 	merge = merge --no--ff
 	pushall = "!f(){ for i in `git remote`; do if [ $i != 'deploy' ]; then git push $i $1; fi; done; };f"
-	pullall = "!f(){ for i in `git remote`; do git pull $i $1; done; };f"
+	pullall = "!f(){ for i in `git remote`; do if [ $i != 'deploy' ]; then git pull $i $1; fi; done; };f"
 
